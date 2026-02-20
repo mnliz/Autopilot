@@ -1,2 +1,4 @@
 # Autopilot
 
+- [ ] Map
+- [ ] Algorithm
